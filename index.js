@@ -3,5 +3,5 @@ function happyHolidays(){
 }// write your code below!
 
 function happyHolidaysTo(Genya){
-  return `"Happy holidays, ${Genya}!"`
+  return `Happy holidays, ${Genya}!`
 }
