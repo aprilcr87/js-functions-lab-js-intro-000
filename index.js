@@ -7,6 +7,7 @@ function happyHolidaysTo(name){
 }
 happyHolidaysTo('Genya');
 
-function happyHolidayTo(Easter, Jesus){
-  return `Happy ${Easter}, ${Jesus}`
+function happyHolidayTo(holiday, name){
+  return `Happy ${holiday}, ${name}!`
 }
+happHolidayTo('Independence Day, Genya');
