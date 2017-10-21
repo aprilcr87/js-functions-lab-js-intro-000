@@ -10,4 +10,4 @@ happyHolidaysTo('Genya');
 function happyHolidayTo(holiday, name){
   return `Happy ${holiday}, ${name}!`
 }
-happHolidayTo('Independence Day, Genya');
+happyHolidayTo('Independence Day, Genya');
