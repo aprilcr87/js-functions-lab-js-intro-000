@@ -7,5 +7,5 @@ function happyHolidaysTo(Genya){
 }
 
 function happyHolidayTo(Independence Day, Mark){
-  return `Happy ${}, ${}`
+  return `Happy ${Independence Day}, ${Mark}`
 }
