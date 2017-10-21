@@ -6,6 +6,6 @@ function happyHolidaysTo(Genya){
   return `Happy holidays, ${Genya}!`
 }
 
-function happyHolidaysTo(Easter, Jesus){
+function happyHolidayTo(Easter, Jesus){
   return `Happy ${Easter}, ${Jesus}`
 }
